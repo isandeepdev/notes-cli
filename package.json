@@ -1,0 +1,23 @@
+{
+  "name": "notes-cli",
+  "version": "1.0.0",
+  "description": "Notes-CLI: command-Line Note-Taking app, Create and save notes instantly using simple commands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isandeepdev/notes-cli.git"
+  },
+  "keywords": [
+    "node-js",
+    "notes-cli"
+  ],
+  "author": "isandeepdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isandeepdev/notes-cli/issues"
+  },
+  "homepage": "https://github.com/isandeepdev/notes-cli#readme"
+}
