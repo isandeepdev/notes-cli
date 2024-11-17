@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/isandeepdev/notes-cli/issues"
   },
-  "homepage": "https://github.com/isandeepdev/notes-cli#readme"
+  "homepage": "https://github.com/isandeepdev/notes-cli#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
 }
