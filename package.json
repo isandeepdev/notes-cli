@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Notes-CLI: command-Line Note-Taking app, Create and save notes instantly using simple commands.",
   "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
