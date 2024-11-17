@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Notes-CLI: command-Line Note-Taking app, Create and save notes instantly using simple commands.",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "note": "./index.js"
   },
